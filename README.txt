@@ -1,1 +1,1 @@
-This repo includes some C++ files for different kinds of sorting algorithm.
+This repo includes C++ files to implement different kinds of sorting algorithm.
